@@ -1,0 +1,6 @@
+{
+    "aff": {
+        "email": "fdfd",
+        "password": "wergerghreg"
+    }
+}
